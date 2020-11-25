@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="985.0" minWidth="1920.0" prefHeight="985.0" prefWidth="1920.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Pane layoutX="5.0" layoutY="5.0" prefHeight="975.0" prefWidth="975.0" style="-fx-background-color: #ccffe6;">
+         <children>
+            <Line endX="975.0" layoutY="150.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endX="150.0" layoutY="225.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endX="150.0" layoutY="300.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endX="150.0" layoutY="375.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endX="150.0" layoutY="450.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endX="150.0" layoutY="525.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endX="150.0" layoutY="600.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endX="150.0" layoutY="675.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endX="150.0" layoutY="750.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endX="975.0" layoutY="825.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endX="975.0" layoutY="750.0" startX="825.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endX="975.0" layoutY="675.0" startX="825.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endX="975.0" layoutY="600.0" startX="825.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endX="975.0" layoutY="525.0" startX="825.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endX="975.0" layoutY="450.0" startX="825.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endX="975.0" layoutY="375.0" startX="825.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endX="975.0" layoutY="300.0" startX="825.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endX="975.0" layoutY="225.0" startX="825.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="975.0" layoutX="150.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="975.0" layoutX="825.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="975.0" layoutX="975.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="975.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="150.0" layoutX="225.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="150.0" layoutX="300.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="150.0" layoutX="375.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="150.0" layoutX="450.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="150.0" layoutX="525.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="150.0" layoutX="600.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="150.0" layoutX="675.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="150.0" layoutX="750.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="150.0" layoutX="225.0" layoutY="825.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="150.0" layoutX="300.0" layoutY="825.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="150.0" layoutX="375.0" layoutY="825.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="150.0" layoutX="450.0" layoutY="825.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="150.0" layoutX="525.0" layoutY="825.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="150.0" layoutX="600.0" layoutY="825.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="150.0" layoutX="675.0" layoutY="825.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="150.0" layoutX="750.0" layoutY="825.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endY="150.0" layoutX="825.0" layoutY="825.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endX="975.0" stroke="#009973" strokeWidth="4.0" />
+            <Line endX="975.0" layoutY="975.0" stroke="#009973" strokeWidth="4.0" />
+            <Text fill="RED" layoutX="19.0" layoutY="902.0" rotate="45.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Старт" textAlignment="CENTER" wrappingWidth="146.4453125">
+               <font>
+                  <Font size="40.0" />
+               </font>
+            </Text>
+            <Text fill="RED" layoutX="827.0" layoutY="893.0" rotate="-45.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Отправляйтесь в тюрьму" textAlignment="CENTER" wrappingWidth="146.4453125">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Text>
+            <Text fill="RED" layoutX="836.0" layoutY="64.0" rotate="45.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Бесплатная стоянка" textAlignment="CENTER" wrappingWidth="146.4453125">
+               <font>
+                  <Font size="23.0" />
+               </font>
+            </Text>
+            <Line endX="-150.0" endY="150.0" layoutX="150.0" stroke="#009973" strokeWidth="4.0" />
+            <Text fill="RED" layoutX="-12.0" layoutY="71.0" rotate="-45.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Тюрьма" textAlignment="CENTER" wrappingWidth="146.4453125">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Text>
+            <Text fill="RED" layoutX="2.0" layoutY="92.0" rotate="-45.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Обычный посетитель" textAlignment="CENTER" wrappingWidth="167.65851545333862">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Text>
+            <Text fill="BLUE" layoutX="377.0" layoutY="848.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Шанс" textAlignment="CENTER" wrappingWidth="71.0">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Text>
+            <Text fill="#ff6400" layoutX="390.0" layoutY="942.0" strokeType="OUTSIDE" strokeWidth="0.0" text="?">
+               <font>
+                  <Font size="100.0" />
+               </font>
+            </Text>
+            <Text fill="BLUE" layoutX="805.0" layoutY="271.0" rotate="-90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Шанс" textAlignment="CENTER" wrappingWidth="71.0">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Text>
+            <Text fill="MAGENTA" layoutX="877.0" layoutY="304.0" rotate="-90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="?">
+               <font>
+                  <Font size="100.0" />
+               </font>
+            </Text>
+            <Text fill="BLUE" layoutX="99.0" layoutY="346.0" rotate="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Шанс" textAlignment="CENTER" wrappingWidth="71.0">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Text>
+            <Text fill="BLUE" layoutX="53.0" layoutY="379.0" rotate="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="?">
+               <font>
+                  <Font size="100.0" />
+               </font>
+            </Text>
+            <Text fill="BLUE" layoutX="100.0" layoutY="721.0" rotate="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Казна" textAlignment="CENTER" wrappingWidth="71.0">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Text>
+            <ImageView fitWidth="71.0" layoutX="65.0" layoutY="686.0" pickOnBounds="true" preserveRatio="true" rotate="90.0">
+               <image>
+                  <Image url="@../img/Shans.png" />
+               </image>
+            </ImageView>
+            <Text fill="BLUE" layoutX="602.0" layoutY="847.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Казна" textAlignment="CENTER" wrappingWidth="71.0">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Text>
+            <ImageView fitWidth="71.0" layoutX="602.0" layoutY="846.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../img/Shans.png" />
+               </image>
+            </ImageView>
+            <Text fill="BLUE" layoutX="602.0" layoutY="142.0" rotate="180.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Казна" textAlignment="CENTER" wrappingWidth="71.0">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Text>
+            <ImageView fitWidth="71.0" layoutX="602.0" layoutY="72.0" pickOnBounds="true" preserveRatio="true" rotate="180.0">
+               <image>
+                  <Image url="@../img/Shans.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="71.0" fitWidth="71.0" layoutX="76.0" layoutY="456.0" pickOnBounds="true" preserveRatio="true" rotate="90.0">
+               <image>
+                  <Image url="@../img/Train.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="71.0" fitWidth="71.0" layoutX="828.0" layoutY="456.0" pickOnBounds="true" preserveRatio="true" rotate="270.0">
+               <image>
+                  <Image url="@../img/Train.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="71.0" fitWidth="71.0" layoutX="452.0" layoutY="831.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../img/Train.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="71.0" fitWidth="71.0" layoutX="453.0" layoutY="80.0" pickOnBounds="true" preserveRatio="true" rotate="180.0">
+               <image>
+                  <Image url="@../img/Train.png" />
+               </image>
+            </ImageView>
+            <Text fill="BLUE" layoutX="227.0" layoutY="844.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Дорогая покупка" textAlignment="CENTER" wrappingWidth="71.0">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Text>
+            <Text fill="BLUE" layoutX="227.0" layoutY="120.0" rotate="180.0" strokeType="OUTSIDE" strokeWidth="0.0" text=" Электро- станция" textAlignment="CENTER" wrappingWidth="71.0">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Text>
+            <ImageView fitHeight="150.0" fitWidth="71.0" layoutX="227.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../img/Electricity.png" />
+               </image>
+            </ImageView>
+            <Text fill="BLUE" layoutX="815.0" layoutY="709.0" rotate="-90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="   Водо-  провод" textAlignment="CENTER" wrappingWidth="71.0">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Text>
+            <ImageView fitHeight="71.0" fitWidth="71.0" layoutX="870.0" layoutY="677.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../img/Water.png" />
+               </image>
+            </ImageView>
+            <Rectangle fill="#0077ff" height="25.0" layoutX="302.0" layoutY="827.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0">
+               <rotationAxis>
+                  <Point3D />
+               </rotationAxis>
+            </Rectangle>
+            <Rectangle fill="#0077ff" height="25.0" layoutX="152.0" layoutY="827.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="#0bd700" height="25.0" layoutX="527.0" layoutY="827.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="#0bd700" height="25.0" layoutX="677.0" layoutY="827.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="#0bd700" height="25.0" layoutX="752.0" layoutY="827.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="#ba5aff" height="25.0" layoutX="152.0" layoutY="123.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="#ba5aff" height="25.0" layoutX="302.0" layoutY="123.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="#ba5aff" height="25.0" layoutX="377.0" layoutY="123.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="#ff9c00" height="25.0" layoutX="527.0" layoutY="123.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="#ff9c00" height="25.0" layoutX="677.0" layoutY="123.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="#ff9c00" height="25.0" layoutX="752.0" layoutY="123.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="#803900" height="25.0" layoutX="100.0" layoutY="775.0" rotate="90.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="#803900" height="25.0" layoutX="100.0" layoutY="625.0" rotate="90.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="#d1e9ff" height="25.0" layoutX="100.0" layoutY="175.0" rotate="90.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="#d1e9ff" height="25.0" layoutX="100.0" layoutY="250.0" rotate="90.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="YELLOW" height="25.0" layoutX="804.0" layoutY="625.0" rotate="90.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="YELLOW" height="25.0" layoutX="804.0" layoutY="550.0" rotate="90.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="YELLOW" height="25.0" layoutX="804.0" layoutY="775.0" rotate="90.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="#d1e9ff" height="25.0" layoutX="100.0" layoutY="400.0" rotate="90.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="RED" height="25.0" layoutX="804.0" layoutY="325.0" rotate="90.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="RED" height="25.0" layoutX="804.0" layoutY="400.0" rotate="90.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Rectangle fill="RED" height="25.0" layoutX="804.0" layoutY="175.0" rotate="90.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="71.0" />
+            <Text fill="BLUE" layoutX="101.0" layoutY="571.0" rotate="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Налог" textAlignment="CENTER" wrappingWidth="71.0">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Text>
+            <Text fill="#00cbff" layoutX="14.0" layoutY="591.0" rotate="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="\%" textAlignment="CENTER" wrappingWidth="71.0">
+               <font>
+                  <Font size="70.0" />
+               </font>
+            </Text>
+            <ImageView fitHeight="71.0" fitWidth="71.0" layoutX="227.0" layoutY="873.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../img/Gold.png" />
+               </image>
+            </ImageView>
+            <ImageView fitWidth="40.0" layoutX="844.0" layoutY="91.0" pickOnBounds="true" preserveRatio="true" rotate="45.0">
+               <image>
+                  <Image url="@../img/Stop.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="50.0" fitWidth="40.0" layoutX="16.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true" rotate="-45.0">
+               <image>
+                  <Image url="@../img/Jail.png" />
+               </image>
+            </ImageView>
+            <Line endX="80.0" endY="135.0" startX="135.0" startY="80.0" stroke="BLUE" strokeWidth="4.0" />
+            <Line endX="136.0" endY="95.0" startX="136.0" startY="79.0" stroke="BLUE" strokeWidth="4.0" />
+            <Line endX="120.0" endY="79.0" startX="136.0" startY="79.0" stroke="BLUE" strokeWidth="4.0" />
+         </children>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </Pane>
+      <Pane layoutX="980.0" layoutY="5.0" opacity="0.0" prefHeight="1000.0" prefWidth="935.0" />
+   </children>
+</Pane>
